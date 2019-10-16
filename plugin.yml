@@ -1,13 +1,13 @@
 name: AFK
 main: Assassiner354\AFK\Main
-api: [3.0.0]
+api: [4.0.0]
 version: 1.0.0
 author: Assassiner354
 description: Simple /afk plugin for PocketMine
 
 commands:
   afk:
-    description: AFK command
+    description: §c§lAFK command
     permission: afk.cmd
 
 permission:
